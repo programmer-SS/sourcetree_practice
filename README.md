@@ -9,6 +9,7 @@ SourceTree の練習リポジトリです
 | rabeneko   | レバー     |
 | rabeneko   | ハツ       |
 | rabeneko   | シマチョウ |
+| tan        | タン
 | rabeneko   | ミノ       |
 | rabeneko   | カイノミ   |
 | hayase     | タン       |
