@@ -9,6 +9,7 @@ SourceTree の練習リポジトリです
 | rabeneko   | レバー     |
 | rabeneko   | ハツ       |
 | rabeneko   | シマチョウ |
+| tan        | タン
 | rabeneko   | ミノ       |
 | rabeneko   | カイノミ   |
 | hayase     | タン       |
@@ -17,6 +18,29 @@ SourceTree の練習リポジトリです
 | td         | カルビ     |
 
 # ここにみんなの好きな寿司のネタを書いてください
+<<<<<<< HEAD
+
+| 名前 | 部位 |
+| ---- | ---- |
+| rabeneko | はまち |
+| rabeneko | マグロ |
+| rabeneko | カンパチ |
+| rabeneko | エンガワ |
+| rabeneko | サバ |
+| rabeneko | 納豆巻き |
+| rabeneko | かっぱ巻き |
+| rabeneko | マグロ |
+| rabeneko | 甘エビ |
+| satsukizzz | クロダイ |
+| satsukizzz | プリン |
+| BlueZhiaar | 北寄貝 |
+| roo | ほたて |
+| roo | 赤貝 |
+| asazuke | ハンバーグ |
+| risarisato | エビアボカド|
+| akane | サーモン |
+| akane | いなり |
+=======
 | 名前       | 部位           |
 | ---------- | -------------- |
 | rabeneko   | はまち         |
@@ -73,3 +97,5 @@ SourceTree の練習リポジトリです
 |2回目の復習|レベルアッププログラミング|
 |masa|イカのお寿司|
 |masa|イカのお寿司三回目|
+|tom         |つぶ貝        |
+>>>>>>> cc1f5adfd921109c0b4fdd8c8e97284da580894d
