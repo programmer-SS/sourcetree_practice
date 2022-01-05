@@ -41,8 +41,10 @@ SourceTree の練習リポジトリです
 | risarisato | エビアボカド|
 | akane | サーモン |
 | akane | いなり |
+| karugamo | 赤貝 |
 | karugamo | つぶ貝 |
 =======
+
 | 名前       | 部位           |
 | ---------- | -------------- |
 | rabeneko   | はまち         |
