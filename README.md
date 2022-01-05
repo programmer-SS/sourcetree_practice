@@ -42,7 +42,9 @@ SourceTree の練習リポジトリです
 | akane | サーモン |
 | akane | いなり |
 | karugamo | 赤貝 |
+| karugamo | つぶ貝 |
 =======
+
 | 名前       | 部位           |
 | ---------- | -------------- |
 | rabeneko   | はまち         |
