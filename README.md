@@ -102,4 +102,5 @@ SourceTree の練習リポジトリです
 |masa|イカのお寿司|
 |masa|イカのお寿司三回目|
 |tom         |つぶ貝        |
+| hattori   | マグロ         |
 >>>>>>> cc1f5adfd921109c0b4fdd8c8e97284da580894d
