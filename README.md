@@ -19,31 +19,6 @@ SourceTree の練習リポジトリです
 | td         | カルビ     |
 
 # ここにみんなの好きな寿司のネタを書いてください
-<<<<<<< HEAD
-
-| 名前 | 部位 |
-| ---- | ---- |
-| rabeneko | はまち |
-| rabeneko | マグロ |
-| rabeneko | カンパチ |
-| rabeneko | エンガワ |
-| rabeneko | サバ |
-| rabeneko | 納豆巻き |
-| rabeneko | かっぱ巻き |
-| rabeneko | マグロ |
-| rabeneko | 甘エビ |
-| satsukizzz | クロダイ |
-| satsukizzz | プリン |
-| BlueZhiaar | 北寄貝 |
-| roo | ほたて |
-| roo | 赤貝 |
-| asazuke | ハンバーグ |
-| risarisato | エビアボカド|
-| akane | サーモン |
-| akane | いなり |
-| karugamo | 赤貝 |
-| karugamo | つぶ貝 |
-=======
 
 | 名前       | 部位           |
 | ---------- | -------------- |
@@ -102,4 +77,4 @@ SourceTree の練習リポジトリです
 |masa|イカのお寿司|
 |masa|イカのお寿司三回目|
 |tom         |つぶ貝        |
->>>>>>> cc1f5adfd921109c0b4fdd8c8e97284da580894d
+|hattori   ｜ 甘エビ         |
