@@ -79,3 +79,4 @@ SourceTree の練習リポジトリです
 |tom         |つぶ貝        |
 | hattori   | ウニ         |
 | hattori   | ホタテ         |
+| hattori   | スズキ         |
