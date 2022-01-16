@@ -78,4 +78,4 @@ SourceTree の練習リポジトリです
 |masa|イカのお寿司三回目|
 |tom         |つぶ貝        |
 | hattori   | ウニ         |
-| hattori   | イクラ         |
+| hattori   | ホタテ         |
