@@ -80,3 +80,4 @@ SourceTree の練習リポジトリです
 | hattori   | ウニ         |
 | hattori   | ホタテ         |
 | hattori   | スズキ         |
+| tatsukikane | 蟹味噌軍艦    |
