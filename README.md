@@ -83,3 +83,4 @@ SourceTree の練習リポジトリです
 | tatsukikane | 蟹味噌軍艦    |
 | siro | かっぱ巻き |
 | yu-rie | いちご |
+| test | まぐろ |
