@@ -86,3 +86,4 @@ SourceTree の練習リポジトリです
 | test         | まぐろ                     |
 | HappyK       | ほたて貝ひも               |
 | YNS          | マグロ                     |
+| kobucha      | キンメダイ                 |
