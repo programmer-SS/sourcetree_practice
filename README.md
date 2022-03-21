@@ -87,3 +87,4 @@ SourceTree の練習リポジトリです
 | HappyK       | ほたて貝ひも               |
 | YNS          | マグロ                     |
 | kobucha      | のどぐろ                   |
+| Hiro         | 雲丹                       |
