@@ -88,3 +88,4 @@ SourceTree の練習リポジトリです
 | YNS          | マグロ                     |
 | kobucha      | のどぐろ                   |
 | Hiro         | 雲丹                       |
+| Hiro         | 蟹                       |
