@@ -89,3 +89,4 @@ SourceTree の練習リポジトリです
 | kobucha      | のどぐろ                   |
 | Hiro         | 雲丹                       |
 | Hiro         | 玉子                       |
+| Hiro         | たこ                       |
