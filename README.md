@@ -91,3 +91,4 @@ SourceTree の練習リポジトリです
 | Hiro         | 玉子                       |
 | Hiro         | たこ                       |
 | Asazuke      | あさづけロール              |
+| Selah        | いくら                     |
