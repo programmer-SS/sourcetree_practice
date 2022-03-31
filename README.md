@@ -92,4 +92,5 @@ SourceTree の練習リポジトリです
 | Hiro         | たこ                       |
 | Asazuke      | あさづけロール              |
 | Selah        | いくら                     |
+| mona    | マグロ                     |
 | mona        | サーモン                     |
