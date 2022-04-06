@@ -95,3 +95,4 @@ SourceTree の練習リポジトリです
 | mona    | マグロ                     |
 | mona        | サーモン                     |
 | hitorigods | マグロ |
+| hitorigods | 甘エビ |
