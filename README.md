@@ -94,3 +94,4 @@ SourceTree の練習リポジトリです
 | Selah        | いくら                     |
 | mona    | マグロ                     |
 | mona        | サーモン                     |
+| hitorigods | 甘エビ |
