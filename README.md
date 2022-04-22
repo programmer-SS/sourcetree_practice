@@ -96,4 +96,5 @@ SourceTree の練習リポジトリです
 | mona        | サーモン                     |
 | hitorigods | マグロ |
 | hitorigods | 甘エビ |
-| nononono | とろサーモンサーモンサーモンサーモン |
+| nononono | サーモン |
+| ooooo | とろサーモン |
