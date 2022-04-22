@@ -15,10 +15,11 @@ SourceTree の練習リポジトリです
 | rabeneko   | カイノミ   |
 | hayase     | タン       |
 | BlueZhiaar | 砂肝       |
+| td         | カルビ     |
+| td         | カルビ     |
+| td         | カルビ     |
 | roo        | イチボ     |
-| td         | カルビ     |
-| td         | カルビ     |
-| td         | カルビ     |
+
 
 # ここにみんなの好きな寿司のネタを書いてください
 
@@ -97,12 +98,13 @@ SourceTree の練習リポジトリです
 | mona    | マグロ                     |
 | mona        | サーモン                     |
 | hitorigods | マグロ |
+| ooooo | とろサーモン |
+| ooooo | とろサーモン |
+| ooooo | とろサーモン |
+| ooooo | とろサーモン |
 | td         | カルビ     |
 | td         | カルビ     |
 | ooooo | とろサーモン |
 | ooooo | とろサーモン |
 | nononono | サーモン |
-| ooooo | とろサーモン |
-| ooooo | とろサーモン |
-| ooooo | とろサーモン |
 
