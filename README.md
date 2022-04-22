@@ -94,7 +94,9 @@ SourceTree の練習リポジトリです
 | Selah        | いくら                     |
 | mona    | マグロ                     |
 | mona        | サーモン                     |
-| hitorigods | マグロ |
-| hitorigods | 甘エビ |
+| ooooo | とろサーモン |
+| ooooo | とろサーモン |
 | nononono | サーモン |
+| ooooo | とろサーモン |
+| ooooo | とろサーモン |
 | ooooo | とろサーモン |
