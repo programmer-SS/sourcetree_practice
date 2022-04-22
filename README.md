@@ -17,6 +17,8 @@ SourceTree の練習リポジトリです
 | BlueZhiaar | 砂肝       |
 | roo        | イチボ     |
 | td         | カルビ     |
+| td         | カルビ     |
+| td         | カルビ     |
 
 # ここにみんなの好きな寿司のネタを書いてください
 
@@ -95,4 +97,5 @@ SourceTree の練習リポジトリです
 | mona    | マグロ                     |
 | mona        | サーモン                     |
 | hitorigods | マグロ |
-| hitorigods | 甘エビ |
+| td         | カルビ     |
+| td         | カルビ     |
