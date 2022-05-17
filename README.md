@@ -108,3 +108,4 @@ SourceTree の練習リポジトリです
 | ooooo | とろサーモン |
 | nononono | サーモン |
 | risarisato | まぐろ |
+| 0008 | さば |
