@@ -110,3 +110,4 @@ SourceTree の練習リポジトリです
 | risarisato | まぐろ |
 | 0008 | さば |
 | tlonk | いわし |
+| tlonk | いくら |
