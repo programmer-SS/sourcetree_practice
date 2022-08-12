@@ -113,3 +113,5 @@ SourceTree の練習リポジトリです
 | tlonk | いくら |
 | mtn | うに |
 | kuya | オニオンサーモン |
+| kuya | えび |
+
