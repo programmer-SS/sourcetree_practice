@@ -34,6 +34,7 @@ SourceTree の練習リポジトリです
 | rabeneko     | かっぱ巻き                 |
 | rabeneko     | マグロ                     |
 | rabeneko     | 甘エビ                     |
+| rabeneko     | サーモン                     |
 | satsukizzz   | クロダイ                   |
 | satsukizzz   | プリン                     |
 | nakako       | ウニ                       |
