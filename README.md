@@ -124,4 +124,5 @@ SourceTree の練習リポジトリです
 | nito | アボカド |
 | nito | ねぎとろ |
 | otya | いくら |
+| otya | えんがわ |
 | otya | ネギトロ |
