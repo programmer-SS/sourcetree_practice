@@ -125,3 +125,4 @@ SourceTree の練習リポジトリです
 | nito | ねぎとろ |
 | otya | いくら |
 | otya | えんがわ |
+| otya | ネギトロ |
