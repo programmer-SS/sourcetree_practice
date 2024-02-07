@@ -126,3 +126,4 @@ SourceTree の練習リポジトリです
 | otya         | いくら                           |
 | otya         | えんがわ                         |
 | otya         | ネギトロ                         |
+| maguro       | マグロ                           |
