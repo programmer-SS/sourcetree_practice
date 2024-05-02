@@ -129,4 +129,4 @@ SourceTree の練習リポジトリです
 | otya         | ネギトロ                         |
 | maguro       | マグロ                           |
 | aiueo        | マグロ                           |
-| kanakana     | マグロ                           |
+| kanakana     | ホタテ                           |
