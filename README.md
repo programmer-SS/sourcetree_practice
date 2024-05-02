@@ -128,3 +128,5 @@ SourceTree の練習リポジトリです
 | otya         | えんがわ                         |
 | otya         | ネギトロ                         |
 | maguro       | マグロ                           |
+| aiueo        | マグロ                           |
+| kanakana     | マグロ                           |
